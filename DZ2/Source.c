@@ -7,6 +7,11 @@ int main() //вариант 18
 {
     setlocale(LC_ALL, "RUS");
 
+    dz();
+}
+
+int dz()
+{
     double L1 = 200.0;
     double L2 = 300.0;
     double V1 = 15.0;

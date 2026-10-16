@@ -1,2 +1,4 @@
 ﻿  Source.c
+C:\Users\user\Desktop\Алгоритмизация\DZ2\DZ2\Source.c(10,5): warning C4013: dz: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\user\Desktop\Алгоритмизация\DZ2\DZ2\Source.c(31,1): warning C4716: dz: должна возвращать значение
   DZ2.vcxproj -> C:\Users\user\Desktop\Алгоритмизация\DZ2\x64\Debug\DZ2.exe

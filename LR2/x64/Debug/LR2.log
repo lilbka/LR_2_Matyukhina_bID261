@@ -1,5 +1,11 @@
 ﻿  Source.c
-C:\Users\user\Desktop\Алгоритмизация\LR2\LR2\Source.c(20,12): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "double"
-C:\Users\user\Desktop\Алгоритмизация\LR2\LR2\Source.c(20,12): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "2" имеет тип "double"
-C:\Users\user\Desktop\Алгоритмизация\LR2\LR2\Source.c(20,12): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "3" имеет тип "double"
+C:\Users\user\Desktop\Алгоритмизация\LR2\LR2\Source.c(10,5): warning C4013: zad1: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\user\Desktop\Алгоритмизация\LR2\LR2\Source.c(11,5): warning C4013: zad2: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\user\Desktop\Алгоритмизация\LR2\LR2\Source.c(12,5): warning C4013: zad3: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\user\Desktop\Алгоритмизация\LR2\LR2\Source.c(28,12): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "double"
+C:\Users\user\Desktop\Алгоритмизация\LR2\LR2\Source.c(28,12): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "2" имеет тип "double"
+C:\Users\user\Desktop\Алгоритмизация\LR2\LR2\Source.c(28,12): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "3" имеет тип "double"
+C:\Users\user\Desktop\Алгоритмизация\LR2\LR2\Source.c(56,1): warning C4716: zad3: должна возвращать значение
+C:\Users\user\Desktop\Алгоритмизация\LR2\LR2\Source.c(43,1): warning C4716: zad2: должна возвращать значение
+C:\Users\user\Desktop\Алгоритмизация\LR2\LR2\Source.c(32,1): warning C4716: zad1: должна возвращать значение
   LR2.vcxproj -> C:\Users\user\Desktop\Алгоритмизация\LR2\x64\Debug\LR2.exe
