@@ -3,9 +3,17 @@
 Два поезда длиной L1 и L2 движутся со скоростями V1 и V2 навстречу друг другу. Определить продолжительность их прохождения один против другого.
 
 ## 1. Алгоритм и блок-схема
-### Алгоритм
 1. Начало
 
+2. Установить локализацию: setlocale(LC_ALL, "RUS");
+
+3. Вызвать dz();
+
+4. Конец
+
+### Алгоритм main
+### Алгоритм dz
+1. Вход в dz()
 2. Объявить переменные:
 
 а) L1 (200.0) - длина первого поезда (м)
@@ -24,10 +32,10 @@ time = lengthsum / speedsum
 
 6. Вывести все данные и результаты в тексте.
 
-7. Конец
+7. Вывод в main()
 
 ### Блок-схема
-https://sun9-37.vkuserphoto.ru/s/v1/ig2/fw2IKjUFIrvNtF-ZITlJMsrBCydBEd161rBjwWqYW8rXdu7kDz6A_GSMQWOK8ZylebD-5NGDG8bIHxsfEh1LkF8v.jpg?quality=95&as=32x30,48x45,72x68,108x102,160x151,240x226,360x339,480x452,540x508,640x602,720x677,793x746&from=bu&u=WyXbR-aHfdrNd9tjAWPMUiFHJpdd-TvS-a0fF2jBPOs&cs=793x0
+https://sun9-85.vkuserphoto.ru/s/v1/ig2/URwp7LYnIKGDv9S1Jnvs33aPPrOFHPeRyBSzjzP5FcpZwoc7tU4pTod9Dk-_mUrJk9gqrae6D1TtUrNd0JFS3ngyLeISMw.jpg?quality=95&as=32x23,48x34,72x51,108x77,160x113,240x170,360x255,480x340,540x383,640x454,720x511,1032x732&from=bu&u=b9zfRrulSrhthTZmkU3f-UU5szzJzCZAP-PWDMIxqYg&cs=1032x0
 
 ## 2. Реализация программы
 #include <stdio.h>
