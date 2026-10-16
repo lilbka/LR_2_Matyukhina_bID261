@@ -27,7 +27,7 @@ time = lengthsum / speedsum
 7. Конец
 
 ### Блок-схема
-https://sun9-67.vkuserphoto.ru/s/v1/ig2/S5B3dh2S560tIhCsABU7dWmZ2IYILjjZVL0swt5h9hcx7jR_7Oaaf3xHuIJXuVkmSY1tXITQTlqA2xKeXDgK7WryxoqEww.jpg?quality=95&as=32x29,48x43,72x65,108x98,160x145,240x218,360x326,480x435,540x489,640x580,720x653,801x726&from=bu&u=_ECEsSrWxnQaJ4tfz_OD1yxqlsN53NQMcx0M0Oh5oWI&cs=801x0
+https://sun9-37.vkuserphoto.ru/s/v1/ig2/fw2IKjUFIrvNtF-ZITlJMsrBCydBEd161rBjwWqYW8rXdu7kDz6A_GSMQWOK8ZylebD-5NGDG8bIHxsfEh1LkF8v.jpg?quality=95&as=32x30,48x45,72x68,108x102,160x151,240x226,360x339,480x452,540x508,640x602,720x677,793x746&from=bu&u=WyXbR-aHfdrNd9tjAWPMUiFHJpdd-TvS-a0fF2jBPOs&cs=793x0
 
 ## 2. Реализация программы
 #include <stdio.h>
@@ -39,6 +39,11 @@ int main() //вариант 18
 {
     setlocale(LC_ALL, "RUS");
 
+    dz();
+}
+
+int dz()
+{
     double L1 = 200.0;
     double L2 = 300.0;
     double V1 = 15.0;
@@ -67,4 +72,4 @@ int main() //вариант 18
 поезд длиной 200 м со скоростью 15 м/с и поезд длиной 300 м со скоростью 20 м/с проходят друг против друга за 14,29 секунд.
 
 ## 4. Информация о разработчике
-Матюхина Софья, бИД-261о
+Матюхина Софья, бИД-261
